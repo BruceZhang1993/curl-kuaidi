@@ -18,7 +18,7 @@
 	KuaiDi Number: <input type="text" name="num" id="num"><br>
 	<button onclick="javascript: queryNum();">Click to Test!</button><br>
 	<div id="result">
-		
+		Here shows the demo result output.
 	</div>
 </body>
 </html>
